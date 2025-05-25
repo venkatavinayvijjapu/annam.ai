@@ -1,0 +1,5 @@
+streamlit
+datasets
+sentence-transformers
+chromadb
+ollama
